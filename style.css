@@ -1,16 +1,2 @@
-h3{
-    color: rgb(15, 14, 14);
-
-background-color: rgb(16, 15, 14);} 
-h2{
-    color: rgb(148, 229, 229);
-}
-
-.menu{
-    display: inline-block; /* deixa lado a lado */
-    padding: 10px 20px; /*  */
-}
-.menu:houver{
-    
-    
-}
+a{text-decoration: none;}
+.menu{list-style-type: none;}
